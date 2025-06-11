@@ -16,7 +16,7 @@
 
 ## Popular R Packages for Bioinformatics
 
-**Olink:**<br>
+**Olink**:Facilitate Analysis of Proteomic Data from Olink<br>
 https://cran.r-project.org/web/packages/OlinkAnalyze/
 <pre>install.packages("OlinkAnalyze")</pre>
 
