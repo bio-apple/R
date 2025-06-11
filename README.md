@@ -22,7 +22,8 @@ https://cran.r-project.org/web/packages/OlinkAnalyze/
 
 **WGCNA**:Weighted Gene Co-expression Network Analysis<br>
 https://cran.r-project.org/web/packages/WGCNA/index.html
-<pre>BiocManager::install("WGCNA")</pre>
+<pre>install.packages("BiocManager")
+BiocManager::install("WGCNA")</pre>
 
 **sesame:**:SEnsible Step-wise Analysis of DNA MEthylation BeadChips<br>
 https://bioconductor.org/packages/release/bioc/html/sesame.html
