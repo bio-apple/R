@@ -16,45 +16,48 @@
 
 ## Popular R Packages for Bioinformatics
 
-1.	**Olink**:https://cran.r-project.org/web/packages/OlinkAnalyze/
+**Olink**:
+https://cran.r-project.org/web/packages/OlinkAnalyze/
 <pre>install.packages("OlinkAnalyze")</pre>
 
-2.	**WGCNA**Weighted Gene Co-expression Network Analysis）https://cran.r-project.org/web/packages/WGCNA/index.html
+**WGCNA**Weighted Gene Co-expression Network Analysis）
+https://cran.r-project.org/web/packages/WGCNA/index.html
 <pre>BiocManager::install("WGCNA")</pre>
 
-3.  **sesame**(SEnsible Step-wise Analysis of DNA MEthylation BeadChips)https://bioconductor.org/packages/release/bioc/html/sesame.html
+**sesame**(SEnsible Step-wise Analysis of DNA MEthylation BeadChips)
+https://bioconductor.org/packages/release/bioc/html/sesame.html
 <pre>BiocManager::install("sesame")</pre>
 
-4.	**Seurat**(R toolkit for single cell genomics)
+**Seurat**(R toolkit for single cell genomics)
 https://satijalab.org/seurat/
 <pre>install.packages('Seurat')</pre>
 
-5.  **DESeq2**(Differential gene expression analysis based on the negative binomial distribution)
+**DESeq2**(Differential gene expression analysis based on the negative binomial distribution)
 https://bioconductor.org/packages/release/bioc/html/DESeq2.html
 <pre>BiocManager::install("DESeq2”)</pre>
 
-6.  **edgeR**(Empirical Analysis of Digital Gene Expression Data in R)
+**edgeR**(Empirical Analysis of Digital Gene Expression Data in R)
 https://bioconductor.org/packages/release/bioc/html/edgeR.html
 <pre>BiocManager::install("edgeR")</pre>
 
-6.  **clusterProfile**r(A universal enrichment tool for interpreting omics data)
+**clusterProfile**r(A universal enrichment tool for interpreting omics data)
 https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html
 <pre>BiocManager::install(“clusterProfiler")</pre>
 
-7.	**vegan**:(Community Ecology Package)
+**vegan**:(Community Ecology Package)
 Ordination methods, diversity analysis and other functions for community and vegetation ecologists.
 https://cran.r-project.org/web/packages/vegan/index.html
 <pre>BiocManager::install("vegan")</pre>
 
-8.	**devtools**: Tools to Make Developing R Packages Easier
+**devtools**: Tools to Make Developing R Packages Easier
 https://cran.r-project.org/web/packages/devtools/index.html
 <pre>install.packages("devtools")</pre>
 
-9.  **methylKit** (DNA methylation analysis from high-throughput bisulfite sequencing results)
+**methylKit** (DNA methylation analysis from high-throughput bisulfite sequencing results)
 https://www.bioconductor.org/packages/devel/bioc/html/methylKit.html
 <pre>BiocManager::install("methylKit")</pre>
 
-10. **epialleleR** (Fast, Epiallele-Aware Methylation Caller and Reporter)
+**epialleleR** (Fast, Epiallele-Aware Methylation Caller and Reporter)
 https://www.bioconductor.org/packages/release/bioc/html/epialleleR.html
 <pre>BiocManager::install("epialleleR")</pre>
 
