@@ -10,6 +10,8 @@
 
 [RColorBrewer画图颜色选择](http://colorbrewer2.org/)
 
+[linux:install rstudio server](./rstudio_server/README.md)
+
 
 ## Common Methods for Installing R Packages
 方法一:
