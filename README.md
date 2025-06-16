@@ -1,3 +1,16 @@
+# R
+
+[R语言学习资源:Cookbook for R](http://www.cookbook-r.com)
+
+[R语言学习资源:tidyverse](https://www.tidyverse.org/)
+
+[R语言学习资源:ggplot2](https://ggplot2-book.org)
+
+[R绘制热图heatmap](https://flowingdata.com/2010/01/21/how-to-make-a-heatmap-a-quick-and-easy-solution/)
+
+[RColorBrewer画图颜色选择](http://colorbrewer2.org/)
+
+
 ## Common Methods for Installing R Packages
 方法一:
 
