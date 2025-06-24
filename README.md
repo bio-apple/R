@@ -50,7 +50,7 @@ https://satijalab.org/seurat/
 
 **DESeq2**:Differential gene expression analysis based on the negative binomial distribution<br>
 https://bioconductor.org/packages/release/bioc/html/DESeq2.html
-<pre>BiocManager::install("DESeq2”)</pre>
+<pre>BiocManager::install("DESeq2")</pre>
 
 **edgeR**:Empirical Analysis of Digital Gene Expression Data in R<br>
 https://bioconductor.org/packages/release/bioc/html/edgeR.html
