@@ -10,8 +10,8 @@ dnf install epel-release -y
 
 #安装必要的开发工具和依赖
 dnf groupinstall -y "Development Tools"
-dnf install -y gcc-c++ gfortran readline-devel zlib-devel bzip2-devel pcre2-devel libcurl-devel openssl-devel libxml2-devel
-dnf install -y hdf5 hdf5-devel python3-pip python3-devel libjpeg-turbo libjpeg-turbo-devel cmake
+dnf install -y gcc-c++ gfortran readline-devel zlib-devel bzip2-devel pcre2-devel libcurl-devel openssl-devel libxml2-devel gdal-devel freetype-devel libpng-devel libtiff-devel libjpeg-devel harfbuzz-devel fribidi-devel
+dnf install -y hdf5 hdf5-devel python3-pip python3-devel libjpeg-turbo libjpeg-turbo-devel cmake proj-devel sqlite-devel cairo-devel geos geos-devel
 </pre>
 
 ## 2.安装R
